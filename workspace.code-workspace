@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\sevices"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "simple"
+	}
+}
